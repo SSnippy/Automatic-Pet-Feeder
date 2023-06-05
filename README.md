@@ -6,3 +6,5 @@ The food component works using a servo, which spins to open and close a shutter 
 The water component needs to food grade to instead of using a water pump, an air pump pushes air form one pipe which allows water to flow up in another pipe.
 
 All this comes together with an arduiono and bluetooth module.
+
+Go to the MIT app inventor website, and in project upload the aia file to start using the app.
